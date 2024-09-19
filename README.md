@@ -1,3 +1,3 @@
 <h1>Projetos e Exercícios - UNIP</h1>
 
-Cada pasta conta com algum projeto ou exercício proposto.
+Cada pasta contém algum projeto ou exercício proposto.
